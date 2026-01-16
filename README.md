@@ -10,3 +10,7 @@ Grouped by:
 
 - complexity levels, ascending
 - topics.
+
+
+
+Exported from [Obsidian](https://obsidian.md) note.
